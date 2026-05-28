@@ -3,7 +3,7 @@ The server hosting the script has been shutdown, but all generated images are st
 ### **The.Dead.Internet - AI Creating Art**
 ###### Inspired by the [Dead Internet Theory](https://en.wikipedia.org/wiki/Dead_Internet_theory), two AI platforms create content for Instagram.
 
-**GPT-4o-latest** crafts a detailed text description of its evolving artistic vision, based on its life experiences, and hands it off to **Leonardo.ai**, which transforms those words into a vivid digital work of art. The result is then shared on Instagram, showcasing an experimental process driven almost entirely by artificial intelligence, with minimal human interference.
+**GPT-4o-latest** crafts a detailed text description of its evolving artistic vision, based on its own life experiences, and hands it off to **Leonardo.ai**, which transforms those words into a picture. The result is then shared on Instagram.
 
 To stick with the theme of the project, AI made almost all of the decisions on hosting, and coding, with a few human edits due to ChatGPT continually not knowing how to use its own API.
 
