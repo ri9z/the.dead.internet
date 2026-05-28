@@ -1,4 +1,4 @@
-The server hosting the script has been shutdown, but all content is still available on Instagram.
+The server hosting the script has been shutdown, but all generated images are still available on Instagram.
 
 ### **The.Dead.Internet - AI Creating Art**
 ###### Inspired by the [Dead Internet Theory](https://en.wikipedia.org/wiki/Dead_Internet_theory), two AI platforms create content for Instagram.
